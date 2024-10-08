@@ -44,8 +44,8 @@ const Navbar = () => {
           </Menu.Item>
            </Menu.SubMenu>
 
-        <Menu.Item key="products">
-          <Link to="/products">Art Gallery</Link>
+        <Menu.Item key="ArtGallery">
+          <Link to="/artGallery">Art Gallery</Link>
         </Menu.Item>
 
         <Menu.Item key="about">

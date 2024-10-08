@@ -1,0 +1,586 @@
+{
+    "landscape": [
+        {
+            "src": "https://i.pinimg.com/474x/32/f4/82/32f4823b4a61a1f74ea6a8e87a3b20eb.jpg",
+            "name": "Mountain View",
+            "price": 3000
+        },
+        {
+            "src": "https://i.pinimg.com/474x/1c/a5/21/1ca5211a1d41914cb58101d03f78d562.jpg",
+            "name": "Sunset Over Water",
+            "price": 4000
+        },
+        {
+            "src": "https://i.pinimg.com/474x/c0/f8/66/c0f8664b8388d16ab337e8202cf0aea0.jpg",
+            "name": "Forest Trail",
+            "price": 3500
+        },
+        {
+            "src": "https://i.pinimg.com/474x/bd/43/b9/bd43b976dd51eae8e88815126e6dcab8.jpg",
+            "name": "Calm Lake",
+            "price": 4500
+        },
+        {
+            "src": "https://i.pinimg.com/474x/ad/fe/2e/adfe2e1122e4b60eaac9e4c4a1e875ee.jpg",
+            "name": "Riverbank",
+            "price": 3000
+        },
+        {
+            "src": "https://i.pinimg.com/474x/e4/3e/aa/e43eaaea9ed6a59c301d0577b58b3bab.jpg",
+            "name": "Sunny Meadows",
+            "price": 5000
+        },
+        {
+            "src": "https://i.pinimg.com/474x/01/fc/66/01fc6666e906095ed5f56fee33f88372.jpg",
+            "name": "Ocean Breeze",
+            "price": 6000
+        },
+        {
+            "src": "https://i.pinimg.com/474x/5c/11/88/5c118858649138de67a433616793848a.jpg",
+            "name": "Rolling Hills",
+            "price": 3500
+        },
+        {
+            "src": "https://i.pinimg.com/474x/4e/61/c0/4e61c057d6314d259bebc687d39807bd.jpg",
+            "name": "Starry Night",
+            "price": 7000
+        },
+        {
+            "src": "https://i.pinimg.com/474x/7f/fe/3a/7ffe3aa739806436925b2a73e924b24d.jpg",
+            "name": "Autumn Leaves",
+            "price": 4500
+        },
+        {
+            "src": "https://i.pinimg.com/474x/59/59/79/595979dd4198fdbf029507cf60c7b846.jpg",
+            "name": "Winter Wonderland",
+            "price": 8000
+        },
+        {
+            "src": "https://i.pinimg.com/474x/07/44/9b/07449ba4a222092c147fcc2d1a433ce0.jpg",
+            "name": "Canyon View",
+            "price": 6500
+        },
+        {
+            "src": "https://m.media-amazon.com/images/I/51RcezkEhaL.UF736,736.jpg",
+            "name": "Desert Dunes",
+            "price": 5000
+        },
+        {
+            "src": "https://i.pinimg.com/474x/b8/a3/9a/b8a39a258e88ec04f623223c861ba04c.jpg",
+            "name": "Flower Field",
+            "price": 3000
+        },
+        {
+            "src": "https://i.pinimg.com/474x/e6/39/ef/e639ef86cf896ef5b8424550cbae7bce.jpg",
+            "name": "Morning Mist",
+            "price": 5500
+        },
+        {
+            "src": "https://i.pinimg.com/474x/87/87/7e/87877e36fd5e04b502a347ed55867cfb.jpg",
+            "name": "Lakeside Reflection",
+            "price": 4500
+        },
+        {
+            "src": "https://i.pinimg.com/474x/b5/1e/fd/b51efdd19e11be4dbefa3c1be5f79fb9.jpg",
+            "name": "Rural Landscape",
+            "price": 3200
+        },
+        {
+            "src": "https://i.pinimg.com/474x/77/9d/9c/779d9c0efb5454c3cc21e5971324f417.jpg",
+            "name": "Highlands",
+            "price": 4800
+        },
+        {
+            "src": "https://i.pinimg.com/474x/bf/ed/d5/bfedd54fbfaae233fe54116618e1808e.jpg",
+            "name": "Golden Fields",
+            "price": 3600
+        },
+        {
+            "src": "https://i.pinimg.com/474x/85/e1/62/85e16292fae99d6c3c280e4fdb120add.jpg",
+            "name": "Tropical Paradise",
+            "price": 7000
+        },
+        {
+            "src": "https://i.pinimg.com/474x/dd/03/57/dd0357d0a51934ca45c91765d1d45954.jpg",
+            "name": "Rocky Mountains",
+            "price": 8000
+        }
+    ],
+    "potrait": [
+        {
+            "src": "https://i.pinimg.com/474x/28/8f/f5/288ff57fe8434f1f2296654f34c0cf3c.jpg",
+            "name": "Gentleman's Portrait",
+            "price": 4000
+        },
+        {
+            "src": "https://i.pinimg.com/474x/9e/9b/21/9e9b218e719efde4dcf7be8adf1750fa.jpg",
+            "name": "Lady in Red",
+            "price": 4500
+        },
+        {
+            "src": "https://i.pinimg.com/474x/33/87/da/3387dab7b40cbe54c4427a8fad3c5a8e.jpg",
+            "name": "Child's Smile",
+            "price": 3000
+        },
+        {
+            "src": "https://i.pinimg.com/474x/72/4d/40/724d400135a537173a7eb6b6c7139ea0.jpg",
+            "name": "Elderly Woman",
+            "price": 5000
+        },
+        {
+            "src": "https://i.pinimg.com/474x/a8/13/a1/a813a18ade8222b00cd18ba8f12184f2.jpg",
+            "name": "Young Girl",
+            "price": 3500
+        },
+        {
+            "src": "https://i.pinimg.com/474x/64/df/60/64df60b11c1d7c7a26c0914b912bce31.jpg",
+            "name": "Artistic Self-Portrait",
+            "price": 6000
+        },
+        {
+            "src": "https://i.pinimg.com/474x/43/a6/64/43a664b7d2d1b85db0e1afc0c2e5304f.jpg",
+            "name": "Woman with Hat",
+            "price": 4500
+        },
+        {
+            "src": "https://i.pinimg.com/474x/ea/1b/99/ea1b99ff122a436c10093ce03e2a8ff0.jpg",
+            "name": "Smiling Child",
+            "price": 3000
+        },
+        {
+            "src": "https://m.media-amazon.com/images/I/41L3mOUU01L.UF736,736.jpg",
+            "name": "Thinking Man",
+            "price": 5500
+        },
+        {
+            "src": "https://i.pinimg.com/474x/45/5a/e7/455ae78c9f80088497dc30dc3b38e884.jpg",
+            "name": "Portrait of a Dancer",
+            "price": 4000
+        },
+        {
+            "src": "https://i.pinimg.com/474x/bd/2e/53/bd2e53d125404d411966de85ca0ded00.jpg",
+            "name": "Elegant Woman",
+            "price": 6500
+        },
+        {
+            "src": "https://i.pinimg.com/474x/f5/9a/73/f59a735341fc90db36cf2fb243061b9d.jpg",
+            "name": "Artistic Expression",
+            "price": 6000
+        },
+        {
+            "src": "https://i.pinimg.com/474x/99/d3/6b/99d36b495062503b5d9d12fcf150f086.jpg",
+            "name": "Family Love",
+            "price": 3500
+        },
+        {
+            "src": "https://i.pinimg.com/474x/48/cf/e1/48cfe1b121f89006d0e1cae856290f44.jpg",
+            "name": "Loving Gaze",
+            "price": 4500
+        },
+        {
+            "src": "https://i.pinimg.com/474x/6f/6b/1f/6f6b1f8c677a08847931a3e88a342bef.jpg",
+            "name": "Joyful Moment",
+            "price": 3000
+        },
+        {
+            "src": "https://i.pinimg.com/474x/a6/99/df/a699dfed472b18a10693175f266a502e.jpg",
+            "name": "Classic Beauty",
+            "price": 5500
+        },
+        {
+            "src": "https://i.pinimg.com/474x/a4/fd/16/a4fd16e741b9170ef3fefb212547bd92.jpg",
+            "name": "Dreamy Eyes",
+            "price": 4000
+        },
+        {
+            "src": "https://i.pinimg.com/474x/11/21/f7/1121f726d5f43fc0c3f3cc43a4316dab.jpg",
+            "name": "Creative Spirit",
+            "price": 6000
+        },
+        {
+            "src": "https://i.pinimg.com/474x/34/bd/51/34bd5127f9646d663dfac1fcdb812910.jpg",
+            "name": "Thoughtful Woman",
+            "price": 4500
+        },
+        {
+            "src": "https://i.pinimg.com/474x/c5/7d/40/c57d4026ad2b5aa6246e78f2ce323b6f.jpg",
+            "name": "Pensive Boy",
+            "price": 3000
+        },
+        {
+            "src": "https://i.pinimg.com/474x/40/31/1b/40311b095d1b42f8f9e16c4a91fced80.jpg",
+            "name": "Sibling Bond",
+            "price": 4000
+        }
+    ],
+    "abstract": [
+        {
+            "src": "https://i.pinimg.com/474x/f6/63/0c/f6630c9b21d5277cb379adaf4659bac9.jpg",
+            "name": "Color Burst",
+            "price": 5000
+        },
+        {
+            "src": "https://i.pinimg.com/474x/67/bd/53/67bd536d472618339e489f9e1ef0ddd4.jpg",
+            "name": "Shapes and Lines",
+            "price": 4500
+        },
+        {
+            "src": "https://i.pinimg.com/474x/e9/cd/62/e9cd6287a6929bb3eb56af4dda3af000.jpg",
+            "name": "Fluid Dynamics",
+            "price": 6000
+        },
+        {
+            "src": "https://i.pinimg.com/474x/10/13/d8/1013d820f0da68b76c74a617ed61c0b6.jpg",
+            "name": "Ethereal Dream",
+            "price": 7000
+        },
+        {
+            "src": "https://i.pinimg.com/474x/b6/d5/c3/b6d5c36f5dc05135df4619ad190e8caa.jpg",
+            "name": "Abstract Harmony",
+            "price": 5500
+        },
+        {
+            "src": "https://i.pinimg.com/474x/c1/eb/2b/c1eb2b12222f5653c52be26fb586e670.jpg",
+            "name": "Modern Expression",
+            "price": 4800
+        },
+        {
+            "src": "https://i.pinimg.com/474x/37/14/fc/3714fc5bfa92f4ffc3cd06912c1041fd.jpg",
+            "name": "Chaos and Calm",
+            "price": 5000
+        },
+        {
+            "src": "https://i.pinimg.com/474x/49/eb/eb/49ebebeaaff1116e266fdb6f96f925a3.jpg",
+            "name": "Geometric Shapes",
+            "price": 5200
+        },
+        {
+            "src": "https://i.pinimg.com/474x/6d/1a/61/6d1a618ea079f565659899762d528c23.jpg",
+            "name": "Vibrant Whirl",
+            "price": 4800
+        },
+        {
+            "src": "https://i.pinimg.com/474x/72/4d/40/724d400135a537173a7eb6b6c7139ea0.jpg",
+            "name": "Spiral Energy",
+            "price": 6000
+        },
+        {
+            "src": "https://i.pinimg.com/474x/38/2e/a3/382ea3cd2c3c0a39bd0442bc8cf59bc7.jpg",
+            "name": "Echo of Colors",
+            "price": 5300
+        },
+        {
+            "src": "https://i.pinimg.com/474x/22/10/0b/22100b732b81121c56c44339a7f4553c.jpg",
+            "name": "Mindscape",
+            "price": 5500
+        },
+        {
+            "src": "https://i.pinimg.com/474x/ca/37/83/ca37833ee382b30be27ee3ed636d94fd.jpg",
+            "name": "Cascading Thoughts",
+            "price": 5900
+        },
+        {
+            "src": "https://i.pinimg.com/474x/70/ee/67/70ee67c55def2b0a1a311f267abffa1b.jpg",
+            "name": "Colorful Reflections",
+            "price": 6200
+        },
+        {
+            "src": "https://i.pinimg.com/474x/3f/fe/f3/3ffef3deec7c58ef603105779e746a37.jpg",
+            "name": "Symphony of Shapes",
+            "price": 5000
+        },
+        {
+            "src": "https://i.pinimg.com/474x/ab/50/82/ab5082ac5dfc51274009dffba3ab0f7a.jpg",
+            "name": "Interwoven Lines",
+            "price": 5400
+        },
+        {
+            "src": "https://i.pinimg.com/474x/41/6e/2b/416e2becfe5a1f22843f1e2da969a3db.jpg",
+            "name": "Rhythmic Flow",
+            "price": 5800
+        },
+        {
+            "src": "https://i.pinimg.com/474x/87/7a/be/877abeb5ccb64fd498d5398eeff50e32.jpg",
+            "name": "Fragmented Reality",
+            "price": 5900
+        },
+        {
+            "src": "https://i.pinimg.com/474x/75/fa/29/75fa299715e7b07be872d5d4e51d6255.jpg",
+            "name": "Celestial Patterns",
+            "price": 6200
+        },
+        {
+            "src": "https://i.pinimg.com/474x/1a/ce/43/1ace438bd4cd52eee1af9afbe7c4c9be.jpg",
+            "name": "Cosmic Energy",
+            "price": 6000
+        },
+        {
+            "src": "https://i.pinimg.com/474x/ad/08/ec/ad08ec1e3dcba695088a4e73ec9fed31.jpg",
+            "name": "Visions of the Mind",
+            "price": 5500
+        }
+    ],
+    "acrylic": [
+        {
+            "src": "https://i.pinimg.com/474x/59/b7/cf/59b7cf49a831e4f2dcdbe09b9a1c4f9f.jpg",
+            "name": "Bright Vibes",
+            "price": 4500
+        },
+        {
+            "src": "https://i.pinimg.com/474x/01/a4/cd/01a4cd0e5dd395037a5237e9fb974b0c.jpg",
+            "name": "Nature's Embrace",
+            "price": 4000
+        },
+        {
+            "src": "https://i.pinimg.com/474x/d0/c6/10/d0c6101e0f74766d4869a6cb55816d74.jpg",
+            "name": "Ocean Depths",
+            "price": 6000
+        },
+        {
+            "src": "https://i.pinimg.com/474x/bc/ce/d8/bcced801dd83dc2be09a5f20b2e074ff.jpg",
+            "name": "Floral Burst",
+            "price": 5500
+        },
+        {
+            "src": "https://i.pinimg.com/474x/c2/c9/94/c2c994c71042d8a2fb539b5586fa32a7.jpg",
+            "name": "Vibrant Petals",
+            "price": 5000
+        },
+        {
+            "src": "https://i.pinimg.com/474x/d7/57/d4/d757d4f7fc78c9d3eced179d634c4f68.jpg",
+            "name": "Sunset Serenity",
+            "price": 4800
+        },
+        {
+            "src": "https://i.pinimg.com/474x/b6/f1/02/b6f102d60ae68d5bb4cf3f0658c47f61.jpg",
+            "name": "Mountain Majesty",
+            "price": 6200
+        },
+        {
+            "src": "https://i.pinimg.com/474x/0f/c0/42/0fc04231450b52fb55c198a6ef9fc870.jpg",
+            "name": "Abstract Breeze",
+            "price": 5300
+        },
+        {
+            "src": "https://i.pinimg.com/474x/9e/14/ae/9e14aebb2ff99e41abae9d56a7339f0c.jpg",
+            "name": "Gentle Flow",
+            "price": 5700
+        },
+        {
+            "src": "https://i.pinimg.com/474x/1e/44/56/1e44564bd7726455581c1448d1d4c363.jpg",
+            "name": "Whimsical Daydream",
+            "price": 5900
+        },
+        {
+            "src": "https://i.pinimg.com/474x/3c/09/7b/3c097bd314824f8f09f2ce1ab731ed0f.jpg",
+            "name": "Ocean Breeze",
+            "price": 6000
+        },
+        {
+            "src": "https://i.pinimg.com/474x/27/e2/54/27e2546cfe27d0c8c5da22f601602bc2.jpg",
+            "name": "Forest Path",
+            "price": 4800
+        },
+        {
+            "src": "https://i.pinimg.com/474x/56/58/8a/56588aa6404d6ab5aa7f1f1f0a087d7a.jpg",
+            "name": "Dreamy Landscape",
+            "price": 6200
+        },
+        {
+            "src": "https://i.pinimg.com/474x/b8/21/7f/b8217fa1dfe208386d3948e33f5cca4b.jpg",
+            "name": "Fiery Sunset",
+            "price": 5000
+        },
+        {
+            "src": "https://i.pinimg.com/474x/c2/d8/d8/c2d8d80ae2cb19a6b41cdf9b90670dcc.jpg",
+            "name": "Abstract Reflections",
+            "price": 5700
+        },
+        {
+            "src": "https://i.pinimg.com/474x/e2/55/0d/e2550d1897467bc0c0562629ac4d87e1.jpg",
+            "name": "Bright Horizons",
+            "price": 5800
+        },
+        {
+            "src": "https://i.pinimg.com/474x/f7/df/e1/f7dfe1f8fbbbb06ada4d6fe1bf645ff9.jpg",
+            "name": "Creative Waves",
+            "price": 5900
+        }
+    ],
+    "oilpainting": [
+        {
+            "src": "https://i.pinimg.com/474x/54/75/85/54758594a95d55e392d7b0ae145dd85e.jpg",
+            "name": "Timeless Beauty",
+            "price": 6500
+        },
+        {
+            "src": "https://i.pinimg.com/474x/05/a6/98/05a698e8295457728ff5b0e5472d3f28.jpg",
+            "name": "Classic Charm",
+            "price": 7000
+        },
+        {
+            "src": "https://i.pinimg.com/474x/98/69/6e/98696e7c502a54f1bff11a0c7ad654ef.jpg",
+            "name": "Nature's Canvas",
+            "price": 7500
+        },
+        {
+            "src": "https://i.pinimg.com/474x/52/34/74/5234743c3de07fa3178184eb581da6d6.jpg",
+            "name": "Colorful Vista",
+            "price": 6800
+        },
+        {
+            "src": "https://i.pinimg.com/474x/26/4b/80/264b800aab586557e7b305d6080e06b4.jpg",
+            "name": "Serene Landscape",
+            "price": 6400
+        },
+        {
+            "src": "https://i.pinimg.com/474x/57/83/61/57836154a8de0fa96cc5c49880e518d2.jpg",
+            "name": "Dreamy Sunset",
+            "price": 6200
+        },
+        {
+            "src": "https://i.pinimg.com/474x/77/c9/c2/77c9c27d65cc197860a5e8d073e714f4.jpg",
+            "name": "Quiet Reflection",
+            "price": 6000
+        },
+        {
+            "src": "https://i.pinimg.com/474x/e4/b7/9b/e4b79bbf94a452f2f21dd7915e1a36d4.jpg",
+            "name": "Vibrant Field",
+            "price": 6700
+        },
+        {
+            "src": "https://i.pinimg.com/474x/f4/09/99/f40999f954b2c0cfa4035cfe4c95eab7.jpg",
+            "name": "Golden Hour",
+            "price": 7200
+        },
+        {
+            "src": "https://i.pinimg.com/474x/bb/8c/6c/bb8c6c1ba703388cf14b8976588dee13.jpg",
+            "name": "Rustic Charm",
+            "price": 5900
+        },
+        {
+            "src": "https://i.pinimg.com/474x/b2/bb/4e/b2bb4e788fe957db278c0db559a26804.jpg",
+            "name": "Autumn's Embrace",
+            "price": 6000
+        },
+        {
+            "src": "https://i.pinimg.com/474x/7b/fc/63/7bfc638d120963cf41f6b69fbde209f5.jpg",
+            "name": "Majestic Mountain",
+            "price": 7200
+        },
+        {
+            "src": "https://m.media-amazon.com/images/I/51GnK9iwwkL.UF736,736.jpg",
+            "name": "Stillness in Nature",
+            "price": 6900
+        },
+        {
+            "src": "https://m.media-amazon.com/images/I/51xTdGF2dTL.UF736,736.jpg",
+            "name": "Reflections of Life",
+            "price": 7400
+        },
+        {
+            "src": "https://i.pinimg.com/474x/50/6c/bb/506cbbb9e704d35d1aa13ba275d0ce55.jpg",
+            "name": "Evening Glow",
+            "price": 6200
+        },
+        {
+            "src": "https://i.pinimg.com/474x/71/a2/4b/71a24bb26f63d0a6145a980983d52a8d.jpg",
+            "name": "Charming Countryside",
+            "price": 6600
+        },
+        {
+            "src": "https://i.pinimg.com/474x/88/c6/66/88c666f29bfa8283744932857972139e.jpg",
+            "name": "Serenity in Color",
+            "price": 6500
+        }
+       
+    ],
+    "Animals":[
+        {
+            "src": "https://i.pinimg.com/474x/ef/2f/b3/ef2fb34fe133298696bbf24350115b87.jpg",
+            "name": "Majestic Peacock",
+            "price": 6500
+        },
+        {
+            "src": "https://i.pinimg.com/474x/a4/39/15/a43915e35f163e22c8ff6680ccc7fb0e.jpg",
+            "name": "Elegant Elephant",
+            "price": 6200
+        },
+        {
+            "src": "https://i.pinimg.com/474x/09/98/a3/0998a396067e26b6481c716bfeb96ecd.jpg",
+            "name": "Humming Bird",
+            "price": 5900
+        },
+        {
+            "src": "https://i.pinimg.com/564x/69/ff/be/69ffbee00c635a39b8964fc17a4daf52.jpg",
+            "name": "Giraffe",
+            "price": 6800
+        },
+        {
+            "src": "https://i.pinimg.com/474x/ea/5e/38/ea5e3842cc84d13507768432dbe16432.jpg",
+            "name": "Fox",
+            "price": 5700
+        },
+        {
+            "src": "https://i.pinimg.com/474x/05/23/9e/05239e1208b49ef8bda0625ca4d82561.jpg",
+            "name": "Baby Elephant",
+            "price": 6500
+        },
+        {
+            "src": "https://i.pinimg.com/474x/e7/3f/ec/e73fec34b3ad8f6b17a79b0e3469a3a6.jpg",
+            "name": "Baby Cow",
+            "price": 6000
+        },
+        {
+            "src": "https://i.pinimg.com/474x/71/74/ad/7174add110379e7ae842d2e5bcc045ce.jpg",
+            "name": "Owl",
+            "price": 6400
+        },
+        {
+            "src": "https://i.pinimg.com/474x/08/91/30/08913004064abc24463bc8c2407c418d.jpg",
+            "name": "Globe in Hands",
+            "price": 5300
+        },
+        {
+            "src": "https://i.pinimg.com/564x/17/49/d5/1749d53ea8569fff78768d0200132cd8.jpg",
+            "name": "Lion",
+            "price": 5800
+        },
+        {
+            "src": "https://i.pinimg.com/474x/ce/ef/80/ceef8095e62d443570fb6cf6fb351360.jpg",
+            "name": "dog",
+            "price": 5900
+        },
+        {
+            "src": "https://i.pinimg.com/564x/c1/12/a9/c112a970ab12492a368569f733087fc8.jpg",
+            "name": "Parrot",
+            "price": 6100
+        },
+        {
+            "src": "https://i.pinimg.com/474x/a2/45/f6/a245f6c0124d4d3c3a30340338e027ae.jpg",
+            "name": "Bear",
+            "price": 6500
+        },
+        {
+            "src": "https://i.pinimg.com/564x/0b/f7/c4/0bf7c41b0a3d2d7666f688bfbed2893e.jpg",
+            "name": "fish",
+            "price": 5700
+        },
+        {
+            "src": "https://i.pinimg.com/564x/a4/11/ea/a411ea0dcd4ed37cc3d51cac077fba5e.jpg",
+            "name": "Tiger",
+            "price": 6400
+        },
+        {
+            "src": "https://i.pinimg.com/564x/a3/8d/30/a38d30f6a891faf281d5dfef76b570eb.jpg",
+            "name": "Chimpanzee",
+            "price": 6200
+        },
+        {
+            "src": "https://i.pinimg.com/564x/80/b1/82/80b182b575ef294b42ef52f33c8509b9.jpg",
+            "name": "Rabbit",
+            "price": 5900
+        }
+    ]
+    
+}
