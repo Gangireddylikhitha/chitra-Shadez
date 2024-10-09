@@ -3,6 +3,12 @@
     justify-items: center;
     align-items: center;
     padding: 50px;
+
+   
+    @media (max-width: 768px) {
+        padding: 20px; 
+        flex-direction: column;
+    }
 }
 
 .card {
@@ -31,7 +37,7 @@
         h2 {
             color: rgb(124, 68, 125); 
             font-weight: bold;
-            text-align:center;
+            text-align: center;
             margin-right: 50px;
         }
     }
@@ -45,6 +51,21 @@
 
         &:hover {
             transform: scale(1.05);
+        }
+    }
+
+    
+    @media (max-width: 768px) {
+        grid-template-columns: repeat(2, 1fr); 
+        gap: 20px; 
+    }
+
+    @media (max-width: 480px) {
+        grid-template-columns: 1fr;
+        img {
+            
+            width: 100%; 
+            height: auto; 
         }
     }
 }
